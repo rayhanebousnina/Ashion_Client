@@ -1,0 +1,12 @@
+.footer {
+  padding: 60px;
+}
+.footer_payment a {
+  margin-right: 18px;
+  margin-top: 40px;
+}
+.footer_links li {
+  margin-right: 20px;
+  list-style: none;
+  margin-bottom: 15px;
+}
