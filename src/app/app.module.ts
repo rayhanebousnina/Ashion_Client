@@ -15,7 +15,6 @@ import { HomeModule } from './features/home/home.module';
 import { FashionsComponent } from './features/home/fashions/fashions.component';
 import { DiscountComponent } from './features/home/discount/discount.component';
 
-import { HomeComponent } from './features/home/home.component';
 @NgModule({
   declarations: [
     HomeComponent,
