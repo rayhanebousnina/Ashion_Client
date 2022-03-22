@@ -1,0 +1,117 @@
+.category1 {
+    height: 600px;
+    background-image: url('../../../../assets/images/category-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+}
+
+.category1 h1 {
+    font-size: 70px;
+}
+
+.category1 p {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 15px 0;
+    max-width: 480px;
+}
+
+.category1 a {
+    font-size: 14px;
+    color: #111111;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: relative;
+    padding: 0 0 3px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.category1 a::after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background: #ca1515;
+    content: "";
+}
+
+.category2 {
+    background-image: url('../../../../assets/images/category-2.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+    background-position: top center;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+.categories h4 {
+    color: #111111;
+}
+
+.categories p {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 15px 0;
+}
+
+.categories a {
+    font-size: 14px;
+    color: #111111;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: relative;
+    padding: 0 0 3px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.categories a::after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background: #ca1515;
+    content: "";
+}
+
+.category3 {
+    background-image: url('../../../../assets/images/category-3.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+    background-position: top center;
+}
+
+.category4 {
+    background-image: url('../../../../assets/images/category-4.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+    background-position: top center;
+}
+
+.category5 {
+    background-image: url('../../../../assets/images/category-5.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+    background-position: top center;
+}
+
+
+/*
+.category {
+    height: 314px;
+} */
